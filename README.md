@@ -1,3 +1,9 @@
+# THIS IS A FORK OF [ananjaser1211/exynos8890-exynos-usbdl-recovery](https://github.com/ananjaser1211/exynos8890-exynos-usbdl-recovery)
+The changes are in the branch:
+
+[SM-A510F](../../tree/sm-a510f)
+
+
 # [Exynos8890 Recovery](https://github.com/ananjaser1211/exynos8890-exynos-usbdl-recovery) - Re-flashing SBOOT via exynos-usbdl Mode
  Galaxy S7 / S7 Edge Exynos8890 / A5 2016 Bootloader recovery/unbrick through exynos-usbdl
 
